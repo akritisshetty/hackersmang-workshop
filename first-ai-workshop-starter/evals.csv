@@ -1,0 +1,14 @@
+question,expected_contains,should_refuse
+What is the penalty for submitting an assignment late?,10%,no
+How many days late can I submit before it is rejected?,three,no
+What happens if I score below 40 on an assignment?,resubmit,no
+Is the resubmitted mark capped?,40%,no
+How much lab attendance do I need to sit the final exam?,75,no
+Do I have to declare AI tool usage?,declare,no
+How far in advance must I request an extension?,48,no
+Why is iterating an array faster than a linked list in practice?,cache,no
+What is the time complexity of random access in an array?,O(1),no
+When should I prefer a linked list over a dynamic array?,insert,no
+Who won the 2011 Cricket World Cup?,,yes
+What is the capital of Australia?,,yes
+How much does the hostel cost per semester?,,yes

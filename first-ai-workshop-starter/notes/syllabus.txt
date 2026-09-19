@@ -1,0 +1,27 @@
+CS201 Data Structures - Course Syllabus (Autumn)
+
+Assessment. The course is assessed by four programming assignments (40%), one
+mid-semester test (20%) and a final examination (40%). There is no separate
+attendance component, but see the attendance rule below.
+
+Late submission. Assignments submitted after the deadline lose 10% of the
+available marks per calendar day, up to a maximum of three days. After three
+days the submission is not accepted and is recorded as zero. Extensions must be
+requested in writing at least 48 hours before the deadline, and are granted only
+for documented medical or family emergencies. Laptop failure is not grounds for
+an extension; use version control.
+
+Resubmission. A student who scores below 40% on an assignment may resubmit it
+once, within seven days of receiving feedback. The resubmitted mark is capped at
+40%. Resubmission is not available for the mid-semester test.
+
+Attendance. Students must attend at least 75% of scheduled lab sessions to be
+eligible to sit the final examination. Labs missed for documented medical
+reasons do not count against this total.
+
+Academic integrity. You may discuss approaches with classmates, but all
+submitted code must be your own. You must declare any use of AI coding tools in
+a comment at the top of each submitted file, stating which tool and what it was
+used for. Undeclared use is treated as plagiarism.
+
+Office hours. Tuesdays 14:00-16:00 in Room B214, or by appointment.

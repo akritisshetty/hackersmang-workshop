@@ -1,0 +1,32 @@
+CS201 Lecture 1 - Arrays, Linked Lists and Complexity
+
+An array stores elements in one contiguous block of memory. Because every
+element is the same size, the address of element i can be computed directly,
+which makes random access O(1). The cost is rigidity: inserting into the middle
+requires shifting every later element, which is O(n), and growing a fixed array
+requires allocating a new block and copying everything across.
+
+A linked list stores each element in its own node together with a pointer to the
+next node. Nodes may sit anywhere in memory. Inserting or deleting at a known
+position is O(1) because you only rewire two pointers, but finding that position
+requires walking the list from the head, which is O(n). There is no random
+access.
+
+A doubly linked list adds a pointer to the previous node. This makes deletion
+easier because you no longer need to track the predecessor while traversing, at
+the cost of one extra pointer per node.
+
+Cache behaviour matters more than the big-O table suggests. Arrays are laid out
+contiguously, so iterating an array is dramatically faster in practice than
+iterating a linked list of the same length, even though both are O(n). Modern
+CPUs fetch memory in cache lines; an array walk gets many useful elements per
+fetch, a linked list walk usually gets one.
+
+Rule of thumb for this course: default to a dynamic array. Reach for a linked
+list only when you have frequent insertions or deletions at positions you
+already hold a reference to.
+
+Big-O notation describes how running time grows as input size grows. It
+deliberately ignores constant factors, so an O(n) algorithm with a large
+constant can be slower than an O(n log n) one for every input size you will
+actually encounter. Measure before you optimise.

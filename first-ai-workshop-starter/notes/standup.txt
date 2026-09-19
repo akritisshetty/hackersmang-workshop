@@ -1,0 +1,19 @@
+Team standup - Tuesday
+
+Priya: finished the login page. Found that the session token expires after 20
+minutes which is too short - she will raise it to 8 hours before Friday. She
+also said someone should look at the API rate limiting, it is causing 429s in
+staging.
+
+Rahul: still blocked on the database migration because he does not have write
+access to the staging DB. Asked Meera to grant access. He will finish the
+migration script by Thursday once access is sorted.
+
+Meera: reviewed the PRs from last week. She will grant Rahul DB access today.
+She flagged that nobody has written tests for the payment module and said this
+is urgent - we should not ship without them.
+
+Arjun: on leave until Monday.
+
+Open discussion: we agreed to move the weekly demo from Friday to Thursday
+starting next week. No owner assigned for updating the calendar invite.
