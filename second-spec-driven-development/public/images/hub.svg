@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="380" viewBox="0 0 480 380" role="img" aria-label="USB-C hub">
+  <rect width="480" height="380" fill="#1e1b4b"/>
+  <rect x="70" y="150" width="340" height="90" rx="16" fill="#6366f1"/>
+  <g fill="#c7d2fe">
+    <rect x="94" y="172" width="30" height="46" rx="6"/>
+    <rect x="136" y="172" width="30" height="46" rx="6"/>
+    <rect x="178" y="172" width="30" height="46" rx="6"/>
+    <rect x="220" y="172" width="30" height="46" rx="6"/>
+  </g>
+  <rect x="330" y="172" width="44" height="46" rx="8" fill="#a5b4fc"/>
+  <path d="M306 114h44v36h-44Z" fill="none" stroke="#a5b4fc" stroke-width="10"/>
+</svg>

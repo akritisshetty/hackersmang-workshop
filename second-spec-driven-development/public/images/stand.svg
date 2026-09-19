@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="380" viewBox="0 0 480 380" role="img" aria-label="Laptop stand">
+  <rect width="480" height="380" fill="#292524"/>
+  <path d="M120 120 360 120 300 300 H180 Z" fill="none" stroke="#fbbf24" stroke-width="16" stroke-linejoin="round"/>
+  <rect x="96" y="96" width="288" height="18" rx="9" fill="#94a3b8"/>
+</svg>

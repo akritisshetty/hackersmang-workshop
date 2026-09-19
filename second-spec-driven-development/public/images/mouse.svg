@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="380" viewBox="0 0 480 380" role="img" aria-label="Wireless mouse">
+  <rect width="480" height="380" fill="#0c4a6e"/>
+  <path d="M200 150c0-44 36-70 80-70s80 26 80 70v80c0 44-36 70-80 70s-80-26-80-70Z" fill="#38bdf8"/>
+  <rect x="266" y="80" width="28" height="90" rx="14" fill="#e0f2fe"/>
+  <circle cx="200" cy="190" r="8" fill="#7dd3fc"/>
+</svg>
